@@ -1,0 +1,6 @@
+GSAP
+Copyright 2008-2026, GreenSock. All rights reserved.
+Subject to the GSAP standard "no charge" licence:
+https://gsap.com/standard-license
+
+The original licence notices are retained in the bundled JavaScript.
